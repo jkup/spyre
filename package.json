@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/jkup/spyre/issues"
   },
-  "homepage": "https://github.com/jkup/spyre#readme"
+  "homepage": "https://github.com/jkup/spyre#readme",
+  "dependencies": {
+    "marked": "^0.3.5"
+  }
 }
