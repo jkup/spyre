@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/jkup/spyre#readme",
   "dependencies": {
+    "commander": "^2.9.0",
     "glob": "^7.0.5",
     "marked": "^0.3.5"
   },
