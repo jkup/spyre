@@ -6,7 +6,7 @@ It doesn't do most of those things right now, so it's more serving as a learning
 
 ## Installation
 
-spyre works best installed as a global package. I've made an [example app](https://github.com/jkup/spyre-example) which you can use to get a feel for how Spyre works.
+Spyre works best installed as a global package. I've made an [example app](https://github.com/jkup/spyre-example) which you can use to get a feel for how Spyre works.
 
 ```sh
 npm install spyre -g
