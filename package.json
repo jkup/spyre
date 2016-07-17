@@ -1,6 +1,6 @@
 {
   "name": "spyre",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A blog-aware markdown to HTML generator",
   "main": "index.js",
   "scripts": {
@@ -27,5 +27,8 @@
     "glob": "^7.0.5",
     "marked": "^0.3.5"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "bin": {
+    "spyre": "./bin/spyre.js"
+  }
 }
